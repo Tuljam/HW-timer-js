@@ -15,6 +15,7 @@
 
 
 
+
 let start = document.querySelector('#start');
 let finish = document.querySelector('#finish');
 let timerShow = document.querySelector('#timer');
